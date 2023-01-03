@@ -87,3 +87,24 @@ body {
     background: linear-gradient(to right, #D6A4A4, #DAE2F8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
+@media only screen and (max-width: 1000px) {
+    .container {
+        transition: 500ms all;
+        width: 100%;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .container {
+        transition: 500ms all;
+        width: 100%;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .container {
+        transition: 500ms all;
+        width: 100%;
+        text-align: center;
+    }
+}
